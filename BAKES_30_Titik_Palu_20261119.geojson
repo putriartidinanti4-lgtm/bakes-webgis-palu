@@ -1,0 +1,822 @@
+{
+    "type": "FeatureCollection",
+    "name": "Sebaran_Bakery_Pastry_Kota_Palu",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.890481,
+                    -0.843539
+                ]
+            },
+            "properties": {
+                "id_toko": 1,
+                "kode_titik": "Titik 1",
+                "nama_toko": "Ummi home baked tondo",
+                "alamat_lengkap": "Jl. Untad 1, Tondo",
+                "kecamatan": "Mantikulore",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "4.000 - 87.000 ribu",
+                "jam_buka": "08.00 - 23.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Aneka Roti",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran",
+                "kontak_sosmed": "082114449468 (ummi_home_baked)",
+                "foto_tempat": "Ummi home baked tondo.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.890425,
+                    -0.86447
+                ]
+            },
+            "properties": {
+                "id_toko": 2,
+                "kode_titik": "Titik 2",
+                "nama_toko": "Pato Donut Tondo",
+                "alamat_lengkap": "Jl. Untad 1, Tondo",
+                "kecamatan": "Mantikulore",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "20.000 - 135.000 ribu",
+                "jam_buka": "08.00 - 23.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Donat",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran & Meja Kursi",
+                "kontak_sosmed": "081343893299 (patodonuts_)",
+                "foto_tempat": "Pato Donut Tondo.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.883255,
+                    -0.841151
+                ]
+            },
+            "properties": {
+                "id_toko": 3,
+                "kode_titik": "Titik 3",
+                "nama_toko": "Master Bakery",
+                "alamat_lengkap": "Jl.R.E Marta Dinata, Tondo",
+                "kecamatan": "Mantikulore",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "5.000 - 100.000 ribu",
+                "jam_buka": "07.00 - 22.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Aneka Roti",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran",
+                "kontak_sosmed": "085280843456 (masterbakerypalu)",
+                "foto_tempat": "Master Bakery.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.883196,
+                    -0.840882
+                ]
+            },
+            "properties": {
+                "id_toko": 4,
+                "kode_titik": "Titik 4",
+                "nama_toko": "Happy Bread Tondo",
+                "alamat_lengkap": "Jl.R.E Marta Dinata, Tondo",
+                "kecamatan": "Mantikulore",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "5.000 - 355.000 ribu",
+                "jam_buka": "07.00 - 22.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Aneka Roti",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran",
+                "kontak_sosmed": "082195878903 (happybread.palu)",
+                "foto_tempat": "Happy Bread Tondo.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.882508,
+                    -0.849053
+                ]
+            },
+            "properties": {
+                "id_toko": 5,
+                "kode_titik": "Titik 5",
+                "nama_toko": "Wafel O Tondo",
+                "alamat_lengkap": "Jl.R.E Marta Dinata, Tondo",
+                "kecamatan": "Mantikulore",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Dine In & Takeaway",
+                "kisaran_harga": "10.000 - 29.000 ribu",
+                "jam_buka": "08.50 - 22.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Wafel",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran & Meja Kursi",
+                "kontak_sosmed": "082347363830 (wafelo_)",
+                "foto_tempat": "Waffel O Tondo.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.883869,
+                    -0.858456
+                ]
+            },
+            "properties": {
+                "id_toko": 6,
+                "kode_titik": "Titik 6",
+                "nama_toko": "Roti O RS Undata",
+                "alamat_lengkap": "Jl.R.E Marta Dinata, Kel. Tondo, Kec. Mantikulore",
+                "kecamatan": "Mantikulore",
+                "kategori_usaha": "Bakery & Pastry",
+                "metode_layanan": "Dine In & Takeaway",
+                "kisaran_harga": "8.000 - 60.000 ribu",
+                "jam_buka": "06.00 - 20.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Roti & Croissant",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Meja Kursi",
+                "kontak_sosmed": "082292652329 (rotio.palu)",
+                "foto_tempat": "Roti O RS Undata.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.886938,
+                    -0.894431
+                ]
+            },
+            "properties": {
+                "id_toko": 7,
+                "kode_titik": "Titik 7",
+                "nama_toko": "Ummi home baked sigma",
+                "alamat_lengkap": "Jl. Sisingamanggaraja, No. 14, Kel. Besusu Timur, Kec Palu Timur",
+                "kecamatan": "Palu Timur",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "4.000 - 87.000 ribu",
+                "jam_buka": "08.00 - 23.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Aneka Roti",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran",
+                "kontak_sosmed": "082124449468 (ummi_home_baked)",
+                "foto_tempat": "Ummi home baked sigma.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.892727,
+                    -0.919205
+                ]
+            },
+            "properties": {
+                "id_toko": 8,
+                "kode_titik": "Titik 8",
+                "nama_toko": "Happy Bread Destik",
+                "alamat_lengkap": "Jl. Dewi Sartika, Kel. Birobuli Utara, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "5.000 - 100.000 ribu",
+                "jam_buka": "07.00 - 22.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Aneka Roti",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran",
+                "kontak_sosmed": "082290175613 (happybread.palu)",
+                "foto_tempat": "Happy Bread Destik.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.892284,
+                    -0.918885
+                ]
+            },
+            "properties": {
+                "id_toko": 9,
+                "kode_titik": "Titik 9",
+                "nama_toko": "Lapis Legit Fili",
+                "alamat_lengkap": "Jl. Jenderal Basuki Rahman, Kel. Birobuli Utara, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "70.000 - 80.000 ribu",
+                "jam_buka": "07.00 - 22.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Lapis Legit",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran",
+                "kontak_sosmed": "085141141265",
+                "foto_tempat": "Lapis Legit Fili.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.886559,
+                    -0.919073
+                ]
+            },
+            "properties": {
+                "id_toko": 10,
+                "kode_titik": "Titik 10",
+                "nama_toko": "Kue Oma",
+                "alamat_lengkap": "Jl. Jenderal Basuki Rahman, Kel. Birobuli Utara, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "3.500 ribu",
+                "jam_buka": "07.00 - 17.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Kue Tradisional",
+                "metode_pembayaran": "Cash",
+                "fasilitas": "Takeaway Only",
+                "kontak_sosmed": "081333255515",
+                "foto_tempat": "Kue Oma.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.88467,
+                    -0.918856
+                ]
+            },
+            "properties": {
+                "id_toko": 11,
+                "kode_titik": "Titik 11",
+                "nama_toko": "Roti Gembul",
+                "alamat_lengkap": "Jl. Jenderal Basuki Rahman, Kel. Tatura Selatan, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "16.000 - 30.000 ribu",
+                "jam_buka": "09.00 - 22.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Roti",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran",
+                "kontak_sosmed": "085222928866 (rotigembonggembul.id)",
+                "foto_tempat": "Roti Gembul.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.883052,
+                    -0.924283
+                ]
+            },
+            "properties": {
+                "id_toko": 12,
+                "kode_titik": "Titik 12",
+                "nama_toko": "Rumah eka",
+                "alamat_lengkap": "Jl. Towua II, Kel. Tatura Selatan, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Bakery & Pastry",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "2.500 - 100.000 ribu",
+                "jam_buka": "08.00 - 20.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Roti, Kue Kering & Brownies",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Takeaway Only",
+                "kontak_sosmed": "08114563840 (rumah eka)",
+                "foto_tempat": "Rumah eka.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.88159,
+                    -0.91803
+                ]
+            },
+            "properties": {
+                "id_toko": 13,
+                "kode_titik": "Titik 13",
+                "nama_toko": "Home Bakery 257",
+                "alamat_lengkap": "Jl. Cendana, Kel. Tatura Utara, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "4.000 - 18.000 ribu",
+                "jam_buka": "07.00 - 23.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Aneka Roti",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Takeaway Only",
+                "kontak_sosmed": "084598488118 (homebakery257)",
+                "foto_tempat": "Home Bakery 257.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.877791,
+                    -0.907607
+                ]
+            },
+            "properties": {
+                "id_toko": 14,
+                "kode_titik": "Titik 14",
+                "nama_toko": "Aa Bakery",
+                "alamat_lengkap": "Jl. Tj. Pangimpuan, Kel. Tatura Utara, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "5.000 - 25.000 ribu",
+                "jam_buka": "07.00 - 20.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Aneka Roti",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Takeaway Only",
+                "kontak_sosmed": "085335555284 (aabakery_2)",
+                "foto_tempat": "Aa Bakery.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.885138,
+                    -0.9601
+                ]
+            },
+            "properties": {
+                "id_toko": 15,
+                "kode_titik": "Titik 15",
+                "nama_toko": "D'cest bake house",
+                "alamat_lengkap": "Jl. Tj. 1 , Kel. Tatura Utara, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Bakery & Pastry",
+                "metode_layanan": "Dine In & Takeaway",
+                "kisaran_harga": "4.000 - 1,2 Juta",
+                "jam_buka": "10.00 - 21.00 WITA",
+                "hari_buka": "Senin - Sabtu",
+                "best_seller": "Dubai Bakery & Pia Crispy",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran & Meja Kursi",
+                "kontak_sosmed": "082196762775 (dcestbakehouse)",
+                "foto_tempat": "D'cest bake house.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.883924,
+                    -0.905593
+                ]
+            },
+            "properties": {
+                "id_toko": 16,
+                "kode_titik": "Titik 16",
+                "nama_toko": "Aairah cookies & bakery",
+                "alamat_lengkap": "Jl. TG. Tururuka, No. 42, Kel. Lolu Selatan, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "5.000 - 400.000 ribu",
+                "jam_buka": "09.00 - 22.00 WITA",
+                "hari_buka": "Senin - Sabtu",
+                "best_seller": "Cookies & Cake",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran",
+                "kontak_sosmed": "081295738534 (aairahcookies)",
+                "foto_tempat": "Aairah cookies & bakery.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.875084,
+                    -0.906399
+                ]
+            },
+            "properties": {
+                "id_toko": 17,
+                "kode_titik": "Titik 17",
+                "nama_toko": "Happy Bread Monginsidi",
+                "alamat_lengkap": "Jl. Wolter Monginsidi, No. 106, Kel. Lolu Selatan, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "5.000 - 100.000 ribu",
+                "jam_buka": "07.00 - 22.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Aneka Roti",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Takeaway Only",
+                "kontak_sosmed": "082252549978 (happybread.palu)",
+                "foto_tempat": "Happy Bread Monginsidi.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.875084,
+                    -0.905218
+                ]
+            },
+            "properties": {
+                "id_toko": 18,
+                "kode_titik": "Titik 18",
+                "nama_toko": "Amanda Brownies",
+                "alamat_lengkap": "Jl. Wolter Monginsidi, No. 106, Kel. Lolu Selatan, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "60.000 - 89.000 ribu",
+                "jam_buka": "07.00 - 22.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Brownies",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran",
+                "kontak_sosmed": "085756751708 (amanda_brownies_palu)",
+                "foto_tempat": "Amanda Brownies.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.875171,
+                    -0.902054
+                ]
+            },
+            "properties": {
+                "id_toko": 19,
+                "kode_titik": "Titik 19",
+                "nama_toko": "Cimon Dessert",
+                "alamat_lengkap": "Jl. Masjid Raya, Kel. Lolo Utara, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Dine In & Takeaway",
+                "kisaran_harga": "50.000 - 500.000 ribu",
+                "jam_buka": "09.00 - 21.00 WITA",
+                "hari_buka": "Senin - Sabtu",
+                "best_seller": "Dessert",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran & Meja Kursi",
+                "kontak_sosmed": "081150500079 (cimondessert)",
+                "foto_tempat": "Cimon Dessert.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.873899,
+                    -0.898701
+                ]
+            },
+            "properties": {
+                "id_toko": 20,
+                "kode_titik": "Titik 20",
+                "nama_toko": "Miette Bake House",
+                "alamat_lengkap": "Jl. Masjid Raya, Kel. Lolo Utara, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Pastry",
+                "metode_layanan": "Dine In & Takeaway",
+                "kisaran_harga": "45.000 - 150.00 ribu",
+                "jam_buka": "07.00 - 22.00 WITA",
+                "hari_buka": "Senin - Sabtu",
+                "best_seller": "Petite & Croissant",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran & Meja Kursi",
+                "kontak_sosmed": "082189155442 (miettebakehouse)",
+                "foto_tempat": "Miette Bake House.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.864283,
+                    -0.89209
+                ]
+            },
+            "properties": {
+                "id_toko": 21,
+                "kode_titik": "Titik 21",
+                "nama_toko": "Kandekande",
+                "alamat_lengkap": "Jl. Kimaja, No. 48, Kel. Besusu Barat, Kec Palu Timur",
+                "kecamatan": "Palu Timur",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "4.500 - 350.000 ribu",
+                "jam_buka": "07.00 - 21.30 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Roti sobek",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran & Meja Kursi",
+                "kontak_sosmed": "08118540088 (kandekande.id)",
+                "foto_tempat": "Kandekande.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.862753,
+                    -0.891557
+                ]
+            },
+            "properties": {
+                "id_toko": 22,
+                "kode_titik": "Titik 22",
+                "nama_toko": "Bakery O'bee",
+                "alamat_lengkap": "Jl. Kimaja, No. 48, Kel. Besusu Barat, Kec Palu Timur",
+                "kecamatan": "Palu Timur",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "8.000 - 15.000 ribu",
+                "jam_buka": "07.00 - 22.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Roti",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran",
+                "kontak_sosmed": "082353419304 (bakeryobeepalu)",
+                "foto_tempat": "Bakery O'bee.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.871957,
+                    -0.887026
+                ]
+            },
+            "properties": {
+                "id_toko": 23,
+                "kode_titik": "Titik 23",
+                "nama_toko": "Kue Lumpur Siduarjo",
+                "alamat_lengkap": "Jl. S. Parman, Kel. Besusu Barat, Kec. Palu Barat",
+                "kecamatan": "Palu Barat",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Dine In & Takeaway",
+                "kisaran_harga": "4.000 - 10.000 ribu",
+                "jam_buka": "08.00 - 18.00 WITA",
+                "hari_buka": "Senin - Sabtu",
+                "best_seller": "Kue Lumpur",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran & Meja Kursi",
+                "kontak_sosmed": "082393313939 (kue_lumpursidoarjo_ar_sa)",
+                "foto_tempat": "Kue Lumpur Siduarjo.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.876923,
+                    -0.881778
+                ]
+            },
+            "properties": {
+                "id_toko": 24,
+                "kode_titik": "Titik 24",
+                "nama_toko": "D'W Donuts",
+                "alamat_lengkap": "Jl. Tombolotutu, Kel. Talise, Kec. Palu Timur",
+                "kecamatan": "Palu Timur",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "5.000 - 10.000 ribu",
+                "jam_buka": "07.00 - 20.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Donat",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Takeaway Only",
+                "kontak_sosmed": "082396222263 (fb : D'W Donuts)",
+                "foto_tempat": "D'W Donuts.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.879679,
+                    -0.882721
+                ]
+            },
+            "properties": {
+                "id_toko": 25,
+                "kode_titik": "Titik 25",
+                "nama_toko": "Cakeshop Palu",
+                "alamat_lengkap": "Lorong Tombolotutu I, Kel. Talise, Kec. Palu Timur",
+                "kecamatan": "Palu Timur",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "40.000 - 7 juta",
+                "jam_buka": "07.00 - 21.00 WITA",
+                "hari_buka": "Senin - Sabtu",
+                "best_seller": "Cake",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Takeaway Only",
+                "kontak_sosmed": "081346234906 (csp_palu)",
+                "foto_tempat": "Cakeshop Palu.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.867918,
+                    -0.892398
+                ]
+            },
+            "properties": {
+                "id_toko": 26,
+                "kode_titik": "Titik 26",
+                "nama_toko": "Roti O H Hayyun",
+                "alamat_lengkap": "Jl. H. Hayyun, Kel Besusu Barat, Kec. Palu Timur",
+                "kecamatan": "Palu Timur",
+                "kategori_usaha": "Bakery & Pastry",
+                "metode_layanan": "Dine In & Takeaway",
+                "kisaran_harga": "8.000 - 60.000 ribu",
+                "jam_buka": "06.00 - 20.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Roti & Croissant",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran & Meja Kursi",
+                "kontak_sosmed": "082292652329 (rotio.palu)",
+                "foto_tempat": "Roti O H Hayyun.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.871716,
+                    -0.893374
+                ]
+            },
+            "properties": {
+                "id_toko": 27,
+                "kode_titik": "Titik 27",
+                "nama_toko": "Pato Donut Ahmad Dahlan",
+                "alamat_lengkap": "Jl. KH Ahmad Dahlan, Kel. Besusu Tengah, Kec. Palu Timur",
+                "kecamatan": "Palu Timur",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "20.000 - 135.000 ribu",
+                "jam_buka": "08.00 - 23.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Donat",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran & Meja Kursi",
+                "kontak_sosmed": "081343893299 (patodonuts_)",
+                "foto_tempat": "Pato Donut Ahmad Dahlan.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.873698,
+                    -0.898654
+                ]
+            },
+            "properties": {
+                "id_toko": 28,
+                "kode_titik": "Titik 28",
+                "nama_toko": "Golden Masjid Raya",
+                "alamat_lengkap": "Jl. Masjid Raya, Kel. Lolo Utara, Kec. Palu Selatan",
+                "kecamatan": "Palu Selatan",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "6.000 - 325.000 ribu",
+                "jam_buka": "08.00 - 22.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Aneka Roti",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran & Meja Kursi",
+                "kontak_sosmed": "081219405628 (goldenbakerypalu)",
+                "foto_tempat": "Golden Masjid Raya.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.867161,
+                    -0.897334
+                ]
+            },
+            "properties": {
+                "id_toko": 29,
+                "kode_titik": "Titik 29",
+                "nama_toko": "Golden Hasanuddin",
+                "alamat_lengkap": "Jl. Sultan Hassanuddin No. 53, Kel, Lolu Utara, Kec. Palu Timur",
+                "kecamatan": "Palu Timur",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Takeaway",
+                "kisaran_harga": "6.000 - 325.000 ribu",
+                "jam_buka": "08.00 - 22.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Aneka Roti",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran & Meja Kursi",
+                "kontak_sosmed": "081219405628 (goldenbakerypalu)",
+                "foto_tempat": "Golden Hasanuddin.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.876649,
+                    -0.96026
+                ]
+            },
+            "properties": {
+                "id_toko": 30,
+                "kode_titik": "Titik 30",
+                "nama_toko": "Joyful",
+                "alamat_lengkap": "Jl. TG. Santigi, Kel. Lolu Selatan. Kec. Pulujadi",
+                "kecamatan": "Ulujadi",
+                "kategori_usaha": "Bakery",
+                "metode_layanan": "Dine In & Takeaway",
+                "kisaran_harga": "6.000 - 500.000 ribu",
+                "jam_buka": "07.00 - 23.00 WITA",
+                "hari_buka": "Setiap Hari",
+                "best_seller": "Cake & Roti",
+                "metode_pembayaran": "Cash, Qris, & Transfer",
+                "fasilitas": "Parkiran & Meja Kursi",
+                "kontak_sosmed": "085796158701 (jfbakerypalu)",
+                "foto_tempat": "Joyful.JPG"
+            }
+        }
+    ]
+}
